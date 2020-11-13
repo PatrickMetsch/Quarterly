@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{97EADD2D-892E-4C22-B90C-91B254A5AEE7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ValidationController.cs">
+    <Files>
+      <File FileName="Models/Validation/Validate.cs" Line="26" Column="31" />
+      <File FileName="Controllers/SalesController.cs" Line="53" Column="1" />
+      <File FileName="Controllers/EmployeeController.cs" Line="41" Column="1" />
+      <File FileName="Views/Sale/Add.cshtml" Line="27" Column="75" />
+      <File FileName="Views/Employee/Add.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="31" Column="40" />
+      <File FileName="Models/Validation/PastDateAttribute.cs" Line="20" Column="13" />
+      <File FileName="Models/Employee.cs" Line="34" Column="43" />
+      <File FileName="Models/Validation/GreaterThanAttribute.cs" Line="48" Column="134" />
+      <File FileName="Models/Sales.cs" Line="27" Column="1" />
+      <File FileName="Controllers/ValidationController.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Quarterly" expanded="True">
+            <Node name="Quarterly" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ValidationController.cs" selected="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Validation" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Employee" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Sales" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Quarterly PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
